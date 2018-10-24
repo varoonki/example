@@ -1,6 +1,6 @@
 #!/bin/bash
-#Author: Varoon Kitayaporn
-#This is great script
+#Author: Varoon Kitayaporon
+#This is great script_
 sum=0
 # this is my comment
 for arg in $@
